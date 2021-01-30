@@ -1,2 +1,0 @@
-# begin-svlt
-Begin app
